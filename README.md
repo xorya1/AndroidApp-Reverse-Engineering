@@ -38,10 +38,3 @@ We welcome contributions from the community. If you have suggestions for improvi
 
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-
-If you have any questions or need further assistance, feel free to reach out via [email](mailto:your.email@example.com) or open an issue in the repository.
-
-## Acknowledgments
-
-Thank you to the developers and maintainers of the tools and frameworks used in this guide. Your hard work makes reverse engineering and security research possible.
